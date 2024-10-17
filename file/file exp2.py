@@ -1,0 +1,5 @@
+#f=open("employee.txt","x")
+f=open("employee.txt","w")
+f.write("that is first line1")
+f=open("employee.txt","a")
+f.write(input("enter the employee detail :"))

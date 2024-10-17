@@ -1,0 +1,13 @@
+#f=open("employee.txt","x")
+#f=open("employee.txt","w")
+#f.write("employe details")
+f=open("employee.txt","a")
+f.write(input("enter the employee detail :"))
+f.write("\t")
+f.write(input("enter the employee number :"))
+f.write("\t")
+f.write(input("enter the employee id :"))
+f.write("\t")
+f.write(input("enter the employee card :"))
+f.write("\t")
+

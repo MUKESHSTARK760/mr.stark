@@ -1,0 +1,28 @@
+*{
+    background-color:darkolivegreen;
+    width: 30vw;
+    height: 20vh;
+}
+
+p{
+    background-color: rgb(64, 13, 80);
+}
+.cid{
+    background-color:chocolate;
+}
+#{
+    background-color: rgb(7, 4, 48);
+}
+#k{
+    background-color: cornflowerblue;
+}
+#l{
+    background-color: rgb(80, 38, 9);
+    padding: 3px;
+    margin-bottom: 5px;
+    border-radius: 4px pink;
+}
+.cid{
+    bottom: 5px;
+}
+
